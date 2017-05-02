@@ -33,3 +33,12 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 
 ### Mark IV Spaceplane System
 - Thunderhawk cockpit has 4-person recycler
+
+### Future possibilities
+- Snacks storage for Near Future Construction pressurized trusses
+- Snacks options for USI kontainers
+- Maybe support for Malemute or Karibou rovers
+
+## License
+
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
