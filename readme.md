@@ -29,7 +29,7 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - 3.75m science lab has ore-to-snack converter (1.5x capacity stock lab)
 
 ### Near Future Spacecraft
-- Mk3-9 pod has 2-person recycler
+- Mk3-9 pod & utility cabin each have 2-person recycler
 
 ### Mark IV Spaceplane System
 - Thunderhawk cockpit has 4-person recycler
