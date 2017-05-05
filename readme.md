@@ -12,8 +12,8 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - 2.5m long crew cabin has 6-person recycler
 - Conical crew cabin has 4-person recycler
 - 3.75m crew cabin has 8-person recycler
-- Crew tubes get modest bonus snack capacity
-- Airlocks get no snack capacity!
+- Crew tubes has modest bonus snack capacity
+- Airlocks have no snack capacity!
 
 ### Habitat Pack
 - All inflatables can store 400 snacks per crew but are launched empty
@@ -38,12 +38,22 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - Tanks have snack storage option
 - Science lab has 2-person recycler
 
-### Future possibilities
+### Kerbal Planetary Base System
+- Habitat Mk1 has 3-person recycler
+- Habitat Mk2 has 4-person recycler
+- Central hub has 6-person recycler
+- Planetary lab has ore-to-snack converter
+- Large greenhouse has ore-to-snack converter with reduced ElectricCharge requirements
+- Greenhouse container has ore-to-snack converter with one-tenth normal efficiency
+- Cross-way has modest bonus snack capacity
+- Airlocks have no snack capacity!
+
+## Future possibilities
 - Snacks storage for Near Future Construction pressurized trusses
 - Snacks options for USI kontainers
 - Maybe support for Karibou rover
 - MKS: EZ-Snack Oven redux?
-- Enhanced support for KPBS
+- Surface Experiment Package: snack lockers
 
 ## License
 
