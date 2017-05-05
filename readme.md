@@ -43,6 +43,7 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - Snacks options for USI kontainers
 - Maybe support for Karibou rover
 - MKS: EZ-Snack Oven redux?
+- Enhanced support for KPBS
 
 ## License
 
