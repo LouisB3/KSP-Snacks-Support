@@ -50,8 +50,11 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - Cross-way has modest bonus snack capacity
 - Airlocks have no snack capacity!
 
+### Surface Experiment Package
+- New container: holds 750 snacks, radial short
+- New container: holds 1500 snacks, radial long
+
 ## Future possibilities
-- Surface Experiment Package: snack lockers
 - Snacks options for USI kontainers
 - Maybe support for Karibou rover
 - MKS: EZ-Snack Oven redux?
