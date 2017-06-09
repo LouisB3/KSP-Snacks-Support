@@ -54,11 +54,6 @@ Extends support for the Snacks mod for Kerbal Space Program to other mods.
 - New container: holds 750 snacks, radial short
 - New container: holds 1500 snacks, radial long
 
-## Future possibilities
-- Snacks options for USI kontainers
-- Maybe support for Karibou rover
-- MKS: EZ-Snack Oven redux?
-
 ## License
 
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
